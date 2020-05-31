@@ -4,7 +4,7 @@
     <title>Active inactive users in php | How to make Active inactive users in php with jQuery AJAX</title>
     <meta name="theme-color" content="#000000">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="../website/img/coding-birds-online/coding-birds-online-favicon.png">
+    <link rel="shortcut icon" href="./website/img/coding-birds-online/coding-birds-online-favicon.png">
     <meta name="author" content="Ankit Kumar">
     <meta name="description" content="Demo &ndash; Coding Birds Online is a blogging website, minimizes the difficulties of coding and development that every new fresher faces in his career. we provide information on free resources, techniques of coding and problem-solving codes on our website.">
     <meta name="keywords" content="Coding Birds Online Demo, coding birds demo, project demo, live demo, tutorials, programming, web technologies, coding,HTML,CSS,PHP,CodeIgniter">
@@ -23,10 +23,10 @@
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
     <!--==================CSS==================-->
-    <link rel="stylesheet" href="../website/css/font-awesome.min.css">
-    <link rel="stylesheet" href="../website/css/bootstrap.css">
-    <link rel="stylesheet" href="../website/css/main.css">
-    <link rel="stylesheet" href="../website/css/custom.css">
+    <link rel="stylesheet" href="./website/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./website/css/bootstrap.css">
+    <link rel="stylesheet" href="./website/css/main.css">
+    <link rel="stylesheet" href="./website/css/custom.css">
     <style> #thead>tr>th{ color: white; } </style>
     <!--==================CSS==================-->
 
@@ -37,7 +37,7 @@
     <div class="container main-menu">
         <div class="row align-items-center justify-content-between d-flex">
             <div id="logo">
-                <a href="index.php"><img src="../website/img/coding-birds-online/coding-birds-online-logo.png" width="133" alt="" title="" /></a>
+                <a href="index.php"><img src="./website/img/coding-birds-online/coding-birds-online-logo.png" width="133" alt="" title="" /></a>
             </div>
             <nav id="nav-menu-container">
                 <ul class="nav-menu">
@@ -57,7 +57,7 @@
             <div class="col-lg-8 posts-list">
                 <div class="card card-signin my-5">
                     <div class="card-body">
-                        <center><img src="../website/img/coding-birds-online/coding-birds-online-favicon.png" width="70"></center>
+                        <center><img src="./website/img/coding-birds-online/coding-birds-online-favicon.png" width="70"></center>
                         <h5 class="card-title text-center">Active Inactive users in PHP</h5>
                     </div>
                     <table id="exampleTable" class="table table-bordered" style="width: 100%">
@@ -137,9 +137,9 @@
 </footer>
 <!-- End footer Area -->
 
-<script src="../website/js/vendor/jquery-2.2.4.min.js"></script>
-<script src="../website/js/vendor/bootstrap.min.js"></script>
+<script src="./website/js/vendor/jquery-2.2.4.min.js"></script>
+<script src="./website/js/vendor/bootstrap.min.js"></script>
 <script src="active-inactive-script.js"></script>
-<script src="../website/js/main.js"></script>
+<script src="./website/js/main.js"></script>
 </body>
 </html>
